@@ -2,9 +2,13 @@
 
 ### PowerSploit is a collection of Microsoft PowerShell modules that can be used to aid penetration testers during all phases of an assessment. PowerSploit is comprised of the following modules and scripts:
 
+### PowerSploit是Microsoft PowerShell模块的集合，可用于在评估的所有阶段帮助渗透测试人员。PowerSploit由以下模块和脚本组成：
+
 ## CodeExecution
 
 **Execute code on a target machine.**
+
+**在目标计算机上执行代码**
 
 #### `Invoke-DllInjection`
 
